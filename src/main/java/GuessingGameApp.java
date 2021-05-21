@@ -25,7 +25,7 @@ public class GuessingGameApp {
         System.out.println(lineBreak);
         System.out.println("Welcome to the WCCI Guessing Game!");
         System.out.println("A number between 1 and 10 has been randomly generated.");
-        System.out.println("Please guess the number now:");
+        System.out.println("Please guess the number:");
 
         int userGuess;
         boolean guessIsValid = false;
